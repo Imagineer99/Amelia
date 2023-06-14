@@ -5,7 +5,9 @@
 # Amelia
 powered by cutting-edge A.I technology. Engage with Amelia, our advanced AI assistant, and experience a futuristic new world of digital interaction.
 
-Amelia combines natural language processing and artificial intelligence to create a captivating conversational experience. Amelia, the AI assistant, is designed to be affirmative, intelligent, and always interesting. With just a few keystrokes, you can dive into a world where human-like conversations with AI are not only possible but exhilarating.
+Amelia combines the potential of natural language processing with speech to text and text to speech functionality to create a captivating and productive conversational experience. 
+She is designed to embody a real personality that is not only affirmative and intelligent but also endlessly captivating. 
+With just a few words or key-strokes, you can dive into a world where human-like conversations with AI are not only possible but exhilarating and incredibly useful.
 
 # Features
 Futuristic Conversations: Interact with Amelia, an AI assistant with a personality inspired by the movie 'her'. Prepare for engaging and nuanced discussions that blur the lines between human and AI communication.
