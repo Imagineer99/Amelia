@@ -16,4 +16,4 @@ Futuristic Conversations: Interact with Amelia, an AI assistant with a personali
 
 #Seamless Integration: Cyberpunk Chat integrates with various technologies and services, allowing you to explore the web, open applications, search the internet, and execute code—all within the same futuristic interface.
 
-#Remember, when Amelia is by your side you're never alone.
+Remember, when Amelia is by your side you're never alone.
