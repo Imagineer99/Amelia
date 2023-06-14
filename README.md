@@ -1,8 +1,10 @@
 
-An interactive chat application that will change your life.
-powered by cutting-edge A.I technology. Engage with Amelia, our advanced AI assistant, and experience a futuristic new world of digital interaction.
+
+
 
 # Amelia
+powered by cutting-edge A.I technology. Engage with Amelia, our advanced AI assistant, and experience a futuristic new world of digital interaction.
+
 Amelia combines natural language processing and artificial intelligence to create a captivating conversational experience. Amelia, the AI assistant, is designed to be affirmative, intelligent, and always interesting. With just a few keystrokes, you can dive into a world where human-like conversations with AI are not only possible but exhilarating.
 
 #Features
