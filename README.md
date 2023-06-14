@@ -5,7 +5,7 @@
 # Amelia
 Powered by cutting-edge A.I technology. Engage with Amelia, our advanced AI assistant, and experience a futuristic new world of digital interaction.
 
-Amelia combines the potential of natural language processing with speech to text and text to speech functionality to create a captivating and productive conversational experience. 
+Amelia combines the potential of natural language processing with real-time speech functionality to create a captivating and productive conversational experience. 
 She is designed to embody a real personality that is not only affirmative and intelligent but also endlessly captivating. 
 With just a few words or key-strokes, you can dive into a world where human-like conversations with AI are not only possible but exhilarating and incredibly useful.
 
@@ -22,3 +22,5 @@ Seamless Integration:
 Cyberpunk Chat integrates with various technologies and services, allowing you to explore the web, open applications, search the internet, and execute code—all within the same futuristic interface.
 
 Remember, when Amelia is by your side you're never alone.
+
+Credit goes to the Imagineer Team.
