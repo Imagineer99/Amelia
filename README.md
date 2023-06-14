@@ -1,5 +1,5 @@
 # Amelia
-Remember, with Amelia by your side, you're never alone.
+Remember, when Amelia is by your side you're never alone.
 
 Welcome to the GitHub introduction page for Amelia, a professional voice assistant designed to enhance your productivity and assist you with various work tasks such as writing, coding, and research. Amelia leverages advanced natural language processing (NLP) and speech recognition technologies to provide a seamless and interactive experience.
 
