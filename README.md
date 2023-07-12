@@ -11,6 +11,7 @@ With just a few words or key-strokes, you can dive into a world where human-like
 
 # Features
 Futuristic Conversations: Interact with Amelia, an AI assistant with a personality inspired by the movie 'her'. Prepare for engaging and nuanced discussions that blur the lines between human and AI communication.
+
 [![Amelia Code](https://img.youtube.com/vi/dr0jCtZun_s/0.jpg)](https://www.youtube.com/watch?v=dr0jCtZun_s)
 
 Intelligent Responses: 
