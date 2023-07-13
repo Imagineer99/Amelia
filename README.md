@@ -1,7 +1,8 @@
 
 
 ![tigertunes3_realistic_photo_of_a_beautiful_young_robot_girl_wea_8f2e278b-69a8-4f09-8ecd-b78af41fffd5](https://github.com/Imagineer99/Amelia/assets/130007945/cd3cc333-0a84-4b39-bb72-8770082cf495)
-
+![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
+![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 # Amelia
 Powered by cutting-edge A.I technology. Engage with Amelia, our advanced AI assistant, and experience a futuristic new world of digital interaction.
 
