@@ -12,7 +12,9 @@ She is designed to embody a real personality that is not only affirmative and in
 With just a few words or key-strokes, you can dive into a world where human-like conversations with AI are not only possible but exhilarating and incredibly useful.
 
 # Features
-Futuristic Conversations: Interact with Amelia, an AI assistant with a personality inspired by the movie 'her'. Prepare for engaging and nuanced discussions that blur the lines between human and AI communication.
+**Futuristic Conversations:**
+
+Interact with Amelia, an AI assistant with a personality inspired by the movie 'her'. Prepare for engaging and nuanced discussions that blur the lines between human and AI communication.
 
 **Intelligent Responses:**
 
