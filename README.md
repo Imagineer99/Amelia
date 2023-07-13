@@ -14,7 +14,7 @@ With just a few words or key-strokes, you can dive into a world where human-like
 # Features
 Futuristic Conversations: Interact with Amelia, an AI assistant with a personality inspired by the movie 'her'. Prepare for engaging and nuanced discussions that blur the lines between human and AI communication.
 
-*Intelligent Responses:*
+**Intelligent Responses:**
 
 Amelia leverages the power of the GPT-3.5 Turbo language model by OpenAI to provide intelligent and context-aware responses. She can understand your prompts, generate code, answer questions, and even execute tasks on your behalf.
 
