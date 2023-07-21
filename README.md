@@ -12,18 +12,23 @@ She is designed to embody a real personality that is not only affirmative and in
 With just a few words or key-strokes, you can dive into a world where human-like conversations with AI are not only possible but exhilarating and incredibly useful.
 
 # Features 🤖
-**Futuristic Conversations:**
 
-Interact with Amelia, an AI assistant with a personality inspired by the movie 'her'. Prepare for engaging and nuanced discussions that blur the lines between human and AI communication.
+Live Conversation- Amelia will respond in real time to anything you have to say, the audio-playback is streamed in real time.- Average response time is 1-2 seconds.
 
-**Intelligent Responses:**
+Voice Commands- She responds to your voice but also understands commands such as open YouTube, search Google, and more.
 
-Amelia leverages the power of the GPT-3.5 Turbo language model by OpenAI to provide intelligent and context-aware responses. She can understand your prompts, generate code, answer questions, and even execute tasks on your behalf.
+Translation- Understands and speaks 8 different languages including English, Italian and Portuguese.
 
-**Voice-enabled Interaction:**
+**Development:**
 
-Immerse yourself in the cyberpunk atmosphere with Amelia's voice. From spoken responses to dynamic audio feedback, every interaction feels like a scene from a sci-fi movie.
+Code Development- Generates code and run cells straight from voice command.
 
-Remember, when Amelia is by your side you're never alone.
+Story Writing- Writes content in a text or word document up to 16,000 tokens.
+
+**Extras** 
+
+Roleplay- Amelia can change voice or personality at the click of a button, allowing for endless interactive experiences.
+
+Dedicated Voice Actor- The voice clone sample of Amelia was produced in a recording studio with over 30 minutes of high fidelity recording.
 
 Credit goes to the Imagineer Team.
