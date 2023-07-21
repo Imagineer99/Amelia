@@ -7,8 +7,6 @@
 
 Engage with Amelia, our advanced AI assistant.
 
-Experience a new world of interaction.
-
 Amelia combines the potential of natural language processing with real-time speech functionality to create a captivating and productive conversational experience. 
 She is designed to embody a real personality that is not only affirmative and intelligent but also endlessly captivating. 
 With just a few words or key-strokes, you can dive into a world where human-like conversations with AI are not only possible but exhilarating and incredibly useful.
