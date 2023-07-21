@@ -13,22 +13,18 @@ With just a few words or key-strokes, you can dive into a world where human-like
 
 # Features 🤖
 
-Live Conversation- Amelia will respond in real time to anything you have to say, the audio-playback is streamed in real time.- Average response time is 1-2 seconds.
+**Live Conversation-** Amelia will respond in real time to anything you have to say, the audio-playback is streamed in real time.- Average response time is 1-2 seconds.
 
-Voice Commands- She responds to your voice but also understands commands such as open YouTube, search Google, and more.
+**Voice Commands-** She responds to your voice but also understands commands such as open YouTube, search Google, and more.
 
-Translation- Understands and speaks 8 different languages including English, Italian and Portuguese.
+**Translation-** Understands and speaks 8 different languages including English, Italian and Portuguese.
 
-**Development:**
+**Code Development-** Generates code and run cells straight from voice command.
 
-Code Development- Generates code and run cells straight from voice command.
+**Story Writing-** Writes content in a text or word document up to 16,000 tokens.
 
-Story Writing- Writes content in a text or word document up to 16,000 tokens.
+**Roleplay-** Amelia can change voice or personality at the click of a button, allowing for endless interactive experiences.
 
-**Extras** 
-
-Roleplay- Amelia can change voice or personality at the click of a button, allowing for endless interactive experiences.
-
-Dedicated Voice Actor- The voice clone sample of Amelia was produced in a recording studio with over 30 minutes of high fidelity recording.
+**Dedicated Voice Actor-** The voice clone sample of Amelia was produced in a recording studio with over 30 minutes of high fidelity recording.
 
 Credit goes to the Imagineer Team.
