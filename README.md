@@ -5,7 +5,8 @@
 # Amelia 🎤
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg) ![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
 
-Engage with Amelia, our advanced AI assistant, and experience a futuristic new world.
+Engage with Amelia, our advanced AI assistant.
+Experience a new world of interaction.
 
 Amelia combines the potential of natural language processing with real-time speech functionality to create a captivating and productive conversational experience. 
 She is designed to embody a real personality that is not only affirmative and intelligent but also endlessly captivating. 
